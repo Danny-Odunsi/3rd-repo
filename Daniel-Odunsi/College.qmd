@@ -1,0 +1,6 @@
+---
+title: "College"
+format: html
+---
+
+I'm enrolled in the prestigious Business Studies Course, averaging a 2.1.
