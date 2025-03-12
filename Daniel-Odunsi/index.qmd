@@ -2,6 +2,6 @@
 title: "Daniel-Odunsi"
 ---
 
-This is a Quarto website.
+Welcome to Daniel Odunsi's page.
 
-Testing
+I am a Final year Business Studies student, specialising in Data Analytics. 
