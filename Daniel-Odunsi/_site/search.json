@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "College.html",
+    "href": "College.html",
+    "title": "College",
+    "section": "",
+    "text": "I’m enrolled in the prestigious Business Studies Course, averaging a 2.1."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel-Odunsi",
+    "section": "",
+    "text": "This is a Quarto website.\nTesting"
+  }
+]
