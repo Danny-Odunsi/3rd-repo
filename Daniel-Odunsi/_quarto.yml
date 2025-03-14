@@ -14,11 +14,7 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: trestles
     css: styles.css
-    toc: true
-
 
 
