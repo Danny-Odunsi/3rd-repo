@@ -1,9 +1,6 @@
 ---
 title: "Daniel-Odunsi"
-image: "C:/Users/danny/OneDrive/Desktop/Workflow and data managment/3rd-Repo/3rd-repo/Daniel-Odunsi/Images/Profile.jpg"
-template: jolla
-image-width: 10em
-image-shape: round
+format: html
 ---
 
 

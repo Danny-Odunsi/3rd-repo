@@ -6,3 +6,8 @@ format: html
 I'm enrolled in the prestigious DCU Business Studies Course, averaging a 2.1.
 
 I have chosen to specialise in Data analytics due to my passion for all things technology related.
+
+
+
+
+C:\Users\Default\AppData\Local
