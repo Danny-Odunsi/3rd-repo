@@ -1,5 +1,5 @@
 ---
-title: "Daniel-Odunsi"
+title: "Daniel Odunsi"
 format: html
 image: Profile.jpg
 about:
