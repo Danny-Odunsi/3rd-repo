@@ -10,6 +10,7 @@ website:
         text: Home
       - Job experience.qmd
       - College.qmd
+      - Projects.qmd
       - about.qmd
 
 format:
