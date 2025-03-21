@@ -1,11 +1,17 @@
 ---
 title: "Daniel Odunsi"
 format: html
+icon: github
 image: Profile.jpg
 about:
     template: trestles
     image-width: 10em
     image-shape: round
+    links: #creating buttons
+        - icon: linkedin
+          text: LinkedIn
+          href: www.linkedin.com/in/daniel-odunsi-56a24b263
+          target: _blank
 ---
 
 

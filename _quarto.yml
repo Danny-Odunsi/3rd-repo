@@ -5,19 +5,21 @@ project:
 website:
   title: "Daniel Odunsi"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - Job experience.qmd
       - College.qmd
       - Projects.qmd
       - about.qmd
+      - Projects/NED.qmd
+      - Projects/Business_Strategy.qmd
   
 sidebar:
   - title: Projects
     contents: 
-    - Projects/NED.qmd
     - Projects/Business_Strategy.qmd
+    - Projects/NED.qmd
 
 
 format:
