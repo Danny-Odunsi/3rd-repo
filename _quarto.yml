@@ -18,11 +18,13 @@ website:
 sidebar:
   - title: Projects
     contents: 
-    - Projects/Business_Strategy.qmd
-    - Projects/NED.qmd
+      Projects/Business_Strategy.qmd
+      Projects/NED.qmd
 
 
 format:
   html:
     theme: trestles
     css: styles.css
+    toc: true
+    page-layout: full

@@ -7,11 +7,14 @@ about:
     template: trestles
     image-width: 10em
     image-shape: round
+    
     links: #creating buttons
         - icon: linkedin
-          text: LinkedIn
-          href: www.linkedin.com/in/daniel-odunsi-56a24b263
+          href: www.linkedin.com/in/daniel-odunsi/
           target: _blank
+        - icon: github
+          href: "DANIEL ODUNSI.pdf"
+          text: CV
 ---
 
 
