@@ -8,19 +8,29 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Job experience.qmd
-      - College.qmd
-      - Projects.qmd
-      - about.qmd
-      - Projects/NED.qmd
-      - Projects/Business_Strategy.qmd
-  
+      - text: Projects
+        menu:
+          - href: Projects/Business_Strategy.qmd
+            text: Business Strategy
+          - href: Projects/NED.qmd
+            text: NED
+      - href: Job experience.qmd
+        text: Job Experience
+      - href: College.qmd
+        text: College
+      - href: Projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+
 sidebar:
   - title: Projects
     contents: 
-      Projects/Business_Strategy.qmd
-      Projects/NED.qmd
-
+      - Projects
+      - section: Projects
+        contents:
+         - Projects/Business_Strategy.qmd
+         - Projects/NED.qmd
 
 format:
   html:

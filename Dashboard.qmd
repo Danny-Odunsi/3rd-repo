@@ -1,0 +1,24 @@
+---
+title: "Dashboards"
+format: dashboard
+---
+
+# Page 1
+
+```{python}
+import plotly.express as px
+
+df = px.data.stocks()
+fig = px.line(df, x='date', y="GOOG")
+fig.show()
+```
+
+```{python}
+from ipyleaflet import Map, Marker
+
+center = (53.3868, -6.2569)
+map = Map(center=center, zoom=12)
+display(map)
+```
+
+## [Sidebar]
