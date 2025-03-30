@@ -18,10 +18,8 @@ website:
         text: Job Experience
       - href: College.qmd
         text: College
-      - href: Projects.qmd
-        text: Projects
       - href: about.qmd
-        text: About
+        text: Hobbies
 
 sidebar:
   - title: Projects

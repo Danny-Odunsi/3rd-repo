@@ -11,14 +11,13 @@ about:
     links: #creating buttons
         - icon: linkedin
           href: www.linkedin.com/in/daniel-odunsi/
-          target: _blank
-        - icon: github
-          href: "DANIEL ODUNSI.pdf"
-          text: CV
+          target: www.linkedin.com/in/daniel-odunsi/
 ---
 
 
-Welcome! I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specializing in Data Analytics. My passion lies at the intersection of business strategy, financial operations and data-driven decision-making.
+Welcome👋🏾
+
+I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specializing in Data Analytics. My passion lies at the intersection of business strategy, financial operations and data-driven decision-making.
 
 I’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.
 
