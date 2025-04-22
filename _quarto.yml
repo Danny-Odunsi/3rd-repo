@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Daniel Odunsi"
+  favicon: Business_Favicon.png
   navbar:
     left:
       - href: index.qmd

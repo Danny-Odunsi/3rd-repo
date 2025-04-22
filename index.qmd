@@ -10,10 +10,13 @@ about:
     
     links: #creating buttons
         - icon: linkedin
-          href: www.linkedin.com/in/daniel-odunsi/
-          target: www.linkedin.com/in/daniel-odunsi/
+          href: www.linkedin.com/in/daniel-odunsi-56a24b263
+          target: _blank #Opening in new browser
+        - icon: Email
+          href: d.odunsi10@gmail.com
+        - icon: instagram
+          href: https://www.instagram.com/dannyo70_2/
 ---
-
 
 Welcome👋🏾
 
