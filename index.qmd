@@ -17,15 +17,17 @@ about:
           target: _blank #Opening in new browser
 ---
 
-Welcome👋🏾
+## Welcome👋🏾 ##
 
-I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specializing in Data Analytics. My passion lies at the intersection of business strategy, financial operations and data-driven decision-making.
+I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passion lies at the intersection of business strategy, financial operations and data-driven decision-making.
 
 I’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.
 
-Beyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, fostering a dynamic and inclusive environment. My technical expertise spans MS Office Suite, SQL, Python, and website design, while my communication skills and proficiency in Spanish allow me to collaborate effectively in diverse settings.
+Beyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.
 
-Whether I’m optimizing business operations, crafting innovative solutions, or even creating a signature cocktail (ask about 'The Odunsi' 🍹), I bring creativity, dedication, and a results-driven approach to everything I do.
+I have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design, while my communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.
+
+Whether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ['The Odunsi'🍹](about.qmd)), I bring creativity, dedication, and a results-driven approach to everything I do.
 
 Enjoy my journey! 🚀
 
