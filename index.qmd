@@ -5,7 +5,7 @@ icon: github
 image: Profile.jpg
 about:
     template: trestles
-    image-width: 10em
+    image-width: 20em
     image-shape: round
     
     links: #creating buttons
@@ -15,6 +15,8 @@ about:
         - icon: instagram
           href: https://www.instagram.com/dannyo70_2/
           target: _blank #Opening in new browser
+        - icon: envelope
+          href: "malito:d.odunsi10@gmail.com"
 ---
 
 ## Welcome👋🏾 ##

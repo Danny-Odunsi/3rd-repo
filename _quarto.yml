@@ -3,9 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Daniel Odunsi"
   favicon: Business_Favicon.png
+  page-footer: 
+    left: "Copyright 2025, Daniel Odunsi"
   navbar:
+    logo: Business_Favicon.png
     left:
       - href: index.qmd
         text: Home
@@ -21,6 +23,7 @@ website:
         text: College
       - href: about.qmd
         text: Hobbies
+        
 
 sidebar:
   - title: Projects
@@ -37,5 +40,5 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full
