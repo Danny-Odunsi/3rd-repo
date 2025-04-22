@@ -10,7 +10,7 @@ about:
     
     links: #creating buttons
         - icon: linkedin
-          href: https://www.linkedin.com/in/daniel-odunsi/
+          href: https://www.linkedin.com/in/daniel-odunsi-56a24b263
           target: _blank #Opening in new browser
         - icon: instagram
           href: https://www.instagram.com/dannyo70_2/
