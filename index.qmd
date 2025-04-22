@@ -14,6 +14,7 @@ about:
           target: _blank #Opening in new browser
         - icon: instagram
           href: https://www.instagram.com/dannyo70_2/
+          target: _blank #Opening in new browser
 ---
 
 Welcome👋🏾
