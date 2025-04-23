@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Hobbies"
 format: html
 ---
 
@@ -19,6 +19,6 @@ Boxing, bartending and football are near and dear to my heart.
 
 
 ## Football⚽
-[**One shot, one goal.**Check out my goal against RoboKeeper at Barcelona's Camp Nou stadium!](Barca_goal.mp4)
+[**One shot, one goal.**](Barca_goal.mp4) Check out my goal against RoboKeeper at Barcelona's Camp Nou stadium!
 
 

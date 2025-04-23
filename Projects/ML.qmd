@@ -1,5 +1,23 @@
 ---
 title: "Machine Learning & Advanced Python"
-format: html
+format: dashboard
 ---
+
+## Machine Learning paper
+
+In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.
+
+I chose to use a set of algorithms to classify good wine and bad wine, based on a variety of factors.
+
+My chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.
+
+After choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.
+
+I reached a peak accuracy of 64% using a Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.
+
+
+<!-- Add some kind of interactive dashboard, using my ML Python code. -->
+
+##
+
 
