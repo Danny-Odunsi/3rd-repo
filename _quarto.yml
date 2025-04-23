@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - DANIEL_ODUNSI.pdf
 
 website:
   favicon: Business_Favicon.png
@@ -11,6 +13,9 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: DANIEL_ODUNSI.pdf
+        text: CV
+        target: _blank
       - href: Projects.qmd
         text: Projects
       - href: Job experience.qmd
@@ -19,7 +24,9 @@ website:
         text: College
       - href: about.qmd
         text: Hobbies
-        
+      - href: Reflection.qmd
+        text: Reflection
+      
 format:
   html:
     theme:
@@ -29,3 +36,4 @@ format:
     toc: false
     page-layout: full
     breadcrumbs: false
+
