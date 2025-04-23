@@ -11,12 +11,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - text: Projects
-        menu:
-          - href: Projects/Business_Strategy.qmd
-            text: Business Strategy
-          - href: Projects/NED.qmd
-            text: NED
+      - href: Projects.qmd
+        text: Projects
       - href: Job experience.qmd
         text: Job Experience
       - href: College.qmd
@@ -24,21 +20,12 @@ website:
       - href: about.qmd
         text: Hobbies
         
-
-sidebar:
-  - title: Projects
-    contents: 
-      - Projects
-      - section: Projects
-        contents:
-         - Projects/Business_Strategy.qmd
-         - Projects/NED.qmd
-
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: lux
+      dark: solar
     css: styles.css
     toc: false
     page-layout: full
+    breadcrumbs: false

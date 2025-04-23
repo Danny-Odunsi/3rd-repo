@@ -1,5 +1,14 @@
 ---
 title: "Projects"
 format: html
+theme: 
+    light: lux
+    dark: cyborg
+listing: 
+    contents: Projects/*
+    type: "grid"
 ---
 
+My Business Studies degree has presented me with a mutlitude of exciting challenges.
+
+Take a look at some of my most enjoyable college projects to date...
