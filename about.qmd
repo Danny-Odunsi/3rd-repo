@@ -11,14 +11,36 @@ My roles as Public Relations Officer and later Vice Chairman of DCU Boxing Club 
 
 I was the first person in the club's history to produce club tracksuits, which are now open for order for members of the club.
 
-With the help of my teammates, I produced a 'Technique Tuesday' series, in which I teach beginners the fundamental principals of boxing.
+With the help of my teammates, I produced a ['Technique Tuesday'](https://www.instagram.com/p/C4sYSKHMEDU/) series, in which I teach beginners the fundamental principals of boxing.
 
 I have also competed in multiple boxing events, representing DCU against other boxing clubs.
+
+::: columns
+::: column
+![](DCU_exhibition.jpg){width=100%}
+:::
+
+::: column
+![](Boxing_derek.jpg){width=100%}
+:::
+:::
+
+::: columns
+::: column
+![](Boxing_team.jpg){width=100%}
+:::
+
+::: column
+![](Boxing_tt.jpg){width=100%}
+:::
+:::
 
 ---
 
 
 ## Bartending🍸
+
+I have worked in numerous bars as a bartender for the past 4 years, at times, holding 2 jobs at a time! I love to interact with customers and craft cocktails. 
 
 | ![My signature chocolate orange cocktail, 'The Odunsi'](Bartending.jpg) | ![Amaretto Sour](Amaretto.jpg) |
 |:--:|:--:|
@@ -31,6 +53,7 @@ I have also competed in multiple boxing events, representing DCU against other b
 ## Football⚽
 
 One shot, one goal. Check out my goal against Robo keeper at Barcelona's Nou Camp stadium!
+
 <video width="400" controls>
   <source src="Barca_goal.mp4" type="video/mp4">
 </video>
