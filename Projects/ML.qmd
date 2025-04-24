@@ -1,24 +1,59 @@
 ---
 title: "Machine Learning & Advanced Python"
+subtitle: Machine Learning paper
+page-layout: full
 image: ../ML_thumbnail.jpeg
-format: dashboard
+format: html
+jupyter: python3
+echo: false
+warning: false
+message: false
+code-fold: true
+code-summary: "Show graph code"
 ---
 
-## Machine Learning paper
 
 In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.
 
-I chose to use a set of algorithms to classify good wine and bad wine, based on a variety of factors.
+I chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.
 
 My chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.
 
 After choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.
 
-I reached a peak accuracy of 64% using a Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.
+I reached a peak accuracy of 64% using the Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality. However, this model was able to uncover some of the complex, non-linear relationships between the features and quality variable, which aided greatly in obtaining the 64% accuracy figure.
 
+Here is the list of features I used, complete with their correlation to the target variable, _Wine Quality_:
+
+```{python echo=false, warning=false, message=false, cold-fold=true, code-summary="Show graph code"}
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Define the features and their correlation values
+features = [
+    'Fixed acidity', 'Volatile acidity', 'Citric acid', 'Residual sugar', 'Chlorides', 
+    'Free sulfur dioxide', 'Total sulfur dioxide', 'Density', 'pH', 'Sulphates', 'Alcohol']
+
+correlations = [
+    0.037545, 0.020286, 0.052341, 0.049734, 0.052905, 
+    0.053021, 0.035975, 0.038473, -0.002383, 0.047728, 0.081891]
+
+# Create a DataFrame
+correlation_df = pd.DataFrame({
+    'Feature': features,
+    'Correlation': correlations})
+
+# Plot the correlation values
+plt.figure(figsize=(10, 6))
+sns.barplot(x='Correlation', y='Feature', data=correlation_df, palette='coolwarm')
+plt.title('Correlation of Features with Wine Quality')
+plt.xlabel('Correlation Value')
+plt.ylabel('Feature')
+plt.tight_layout()
+plt.show()
+```
+
+Check out the code I used for this classification task on [Google Collab](https://colab.research.google.com/drive/18rtWGmYg_t3-MJ33f2yaWaQQTkKm7kwN#scrollTo=_PwtV_kWEN_h).
 
 <!-- Add some kind of interactive dashboard, using my ML Python code. -->
-
-##
-
-

@@ -2,9 +2,7 @@
 title: "Business Strategy"
 image: ../Strat_thumbnail.jpg
 format: html
-listing: 
-    contents: Strat_report
-    type: "grid"
+page-layout: full
 ---
 
 Over the course of my final year, this module has been full of interesting learning curves.
@@ -14,3 +12,5 @@ My favourite project was the written group project, where myself and my team con
 This honed my analytical, digital and communicative skills.
 
 Have a look at our submission...
+
+<iframe src="../Strat_report.pdf" width="100%" height="1000px" style="border: none;"></iframe>

@@ -3,6 +3,7 @@ title: "Daniel Odunsi"
 format: html
 icon: github
 image: Profile.jpg
+page-layout: full
 about:
     template: trestles
     image-width: 20em

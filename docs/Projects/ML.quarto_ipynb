@@ -1,0 +1,89 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Machine Learning & Advanced Python\"\n",
+        "subtitle: Machine Learning paper\n",
+        "\n",
+        "image: ../ML_thumbnail.jpeg\n",
+        "format: html\n",
+        "jupyter: python3\n",
+        "echo: false\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\n",
+        "\n",
+        "I chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\n",
+        "\n",
+        "My chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\n",
+        "\n",
+        "After choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\n",
+        "\n",
+        "I reached a peak accuracy of 64% using a Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.\n",
+        "\n",
+        "Here is the list of features I used, complete with their correlation to the target variable, **Wine Quality**:\n"
+      ],
+      "id": "044e69c0"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import pandas as pd\n",
+        "import matplotlib.pyplot as plt\n",
+        "import seaborn as sns\n",
+        "\n",
+        "# Define the features and their correlation values\n",
+        "features = [\n",
+        "    'Fixed acidity', 'Volatile acidity', 'Citric acid', 'Residual sugar', 'Chlorides', \n",
+        "    'Free sulfur dioxide', 'Total sulfur dioxide', 'Density', 'pH', 'Sulphates', 'Alcohol']\n",
+        "\n",
+        "correlations = [\n",
+        "    0.037545, 0.020286, 0.052341, 0.049734, 0.052905, \n",
+        "    0.053021, 0.035975, 0.038473, -0.002383, 0.047728, 0.081891]\n",
+        "\n",
+        "# Create a DataFrame\n",
+        "correlation_df = pd.DataFrame({\n",
+        "    'Feature': features,\n",
+        "    'Correlation': correlations})\n",
+        "\n",
+        "# Plot the correlation values\n",
+        "plt.figure(figsize=(10, 6))\n",
+        "sns.barplot(x='Correlation', y='Feature', data=correlation_df, palette='coolwarm')\n",
+        "plt.title('Correlation of Features with Wine Quality')\n",
+        "plt.xlabel('Correlation Value')\n",
+        "plt.ylabel('Feature')\n",
+        "plt.tight_layout()\n",
+        "plt.show()"
+      ],
+      "id": "22a27b3e",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "Check out the code I used for this classification task on [Google Collab](https://colab.research.google.com/drive/18rtWGmYg_t3-MJ33f2yaWaQQTkKm7kwN#scrollTo=_PwtV_kWEN_h).\n",
+        "\n",
+        "<!-- Add some kind of interactive dashboard, using my ML Python code. -->"
+      ],
+      "id": "9d679dc9"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\danny\\anaconda3\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

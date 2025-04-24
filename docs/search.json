@@ -25,14 +25,14 @@
     "href": "Projects/NED.html#the-pitch",
     "title": "New Enterprise Development",
     "section": "The Pitch",
-    "text": "The Pitch\nAll smiles from us, after obtaining a 1.1 in our company presentation 🔥"
+    "text": "The Pitch"
   },
   {
     "objectID": "Projects/Business_Strategy.html",
     "href": "Projects/Business_Strategy.html",
     "title": "Business Strategy",
     "section": "",
-    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review for Keogh’s Farms, a well-known Irish crisps company.\nThis honed my analytical, digital and communicative skills.\nHave a look at our submission…\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review for Keogh’s Farms, a well-known Irish crisps company.\nThis honed my analytical, digital and communicative skills.\nHave a look at our submission…"
   },
   {
     "objectID": "index.html",
@@ -102,6 +102,20 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "DCU Business Studies has presented me with a mutlitude of exciting challenges.\nTake a look at some of my most enjoyable college projects to date…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning & Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "DCU Business Studies has presented me with a mutlitude of exciting challenges.\nTake a look at some of my most enjoyable college projects to date…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning & Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects/ML.html",
+    "href": "Projects/ML.html",
+    "title": "Machine Learning & Advanced Python",
+    "section": "",
+    "text": "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\nI chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\nMy chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\nAfter choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\nI reached a peak accuracy of 64% using the Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.\nHere is the list of features I used, complete with their correlation to the target variable, Wine Quality:\n\n\n\n\n\n\n\n\n\nCheck out the code I used for this classification task on Google Collab."
+  },
+  {
+    "objectID": "Projects/ML.html#machine-learning-paper",
+    "href": "Projects/ML.html#machine-learning-paper",
+    "title": "Machine Learning & Advanced Python",
+    "section": "",
+    "text": "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\nI chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\nMy chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\nAfter choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\nI reached a peak accuracy of 64% using a Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.\nHere is the list of features I used, complete with their correlation to the target variable, Wine Quality:\n\n\nC:\\Users\\danny\\AppData\\Local\\Temp\\ipykernel_37820\\2627079217.py:21: FutureWarning:\n\n\n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.\n\n\n\n\n\n\n\n\n\n\n\nCheck out the code I used for this classification task on Google Collab."
   }
 ]
