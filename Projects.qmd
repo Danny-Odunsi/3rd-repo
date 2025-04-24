@@ -7,17 +7,15 @@ theme:
 listing: 
     contents: Projects/*
     type: "grid"
+    fields: [title, image]
 ---
+
 
 DCU Business Studies  has presented me with a mutlitude of exciting challenges.
 
 Take a look at some of my most enjoyable college projects to date...
 
 ### ![Business Strategy](images/Business_strat.jpeg)
-
-**BUSINESS STRATEGY**  
-*Over the course of my final year, this module has been full of interesting learning curves.*
-
 ---
 
 ### ![Machine Learning](images/ML_thumbnail.jpeg)
