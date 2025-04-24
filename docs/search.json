@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "BAA1028 - My reflection",
+    "section": "",
+    "text": "I must say, this has been an incredibly insightful module. It is like nothing I ever dreamed I would be doing at any point in life, so it is a major achievement for me to be able to say that I have produced my own website.\nThis journey has not come without its challenges. Learning to read HTML and CSS was not an easy feat for me. Additionally, it required me to become very familiar with the lecture material. It took a lot of study and concentration in lectures and by myself. In fact, there was a period where I was a few lectures behind, having not even been able to properly commit my changes to GitHub, which meant that my website remained bare for far longer than was acceptable. However, sitting down with my lecturer (thank you Damien) aided greatly in getting me back on track, which allowed me to catch up on past lectures and really begin to style my website. This meeting provided the ground work for the website that I have been able to submit.\nI have found that producing a webpage such as this one requires a lot of trial and error. It takes patience and persistency to find the outcomes that you want. However, the results are more than rewarding.\nFrom partaking in this module and completing this assignment, I have improved my web development skills, coding skills,\nSpecial thanks to Damien Dupre, for allowing"
+  },
+  {
     "objectID": "Projects/NED.html",
     "href": "Projects/NED.html",
     "title": "New Enterprise Development",
@@ -18,7 +25,14 @@
     "href": "Projects/NED.html#the-pitch",
     "title": "New Enterprise Development",
     "section": "The Pitch",
-    "text": "The Pitch\nAll smiles from us, after obtaining a 1.1 in our company presentation 🔥\n\n\n\nTeam Inside\n\n\n\n\n\nTeam Outside\n\n\n\n\n\nHolding Signs\n\n\n\n\n\nDistributing Leaflets"
+    "text": "The Pitch\nAll smiles from us, after obtaining a 1.1 in our company presentation 🔥"
+  },
+  {
+    "objectID": "Projects/Business_Strategy.html",
+    "href": "Projects/Business_Strategy.html",
+    "title": "Business Strategy",
+    "section": "",
+    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review for Keogh’s Farms, a well-known Irish crisps company.\nThis honed my analytical, digital and communicative skills.\nHave a look at our submission…\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -33,13 +47,6 @@
     "title": "Daniel Odunsi",
     "section": "",
     "text": "I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.\nI’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.\nBeyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.\nI have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design. My communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.\nWhether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ‘The Odunsi’🍹), I bring creativity, dedication, and a results-driven approach to everything I do.\nEnjoy my journey! 🚀"
-  },
-  {
-    "objectID": "College.html",
-    "href": "College.html",
-    "title": "College",
-    "section": "",
-    "text": "I’m enrolled in the prestigious DCU Business Studies Course, averaging a 2.1.\nI have chosen to specialise in Data analytics due to my passion for all things technology related."
   },
   {
     "objectID": "about.html",
@@ -95,20 +102,6 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "DCU Business Studies has presented me with a mutlitude of exciting challenges.\nTake a look at some of my most enjoyable college projects to date…\n\n\n\n\n\n\nMACHINE LEARNING & ADVANCED PYTHON\nFrom classification algorithms to model evaluation, this project solidified my interest in data science.\n\n\n\n\nNEW ENTERPRISE DEVELOPMENT\nWe generated a fully-fledged, profitable business idea from scratch over 8 months.\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning & Advanced Python\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Reflection.html",
-    "href": "Reflection.html",
-    "title": "BAA1028 - My reflection",
-    "section": "",
-    "text": "I must say, this has been an incredibly insightful module. It is like nothing I ever dreamed I would be doing at any point in life, so it is a major achievement for me to be able to say that I have produced my own website.\nThis journey has not come without its challenges. Learning to read HTML and CSS was not an easy feat for me. Additionally, it required me to become very familiar with the lecture material. It took a lot of study and concentration in lectures and by myself. However, it has provided the ground work for the website that I have been able to submit.\nI have found that producing a webpage such as this one requires a lot of trial and error. It takes patience and persistency to find the outcomes that you want."
-  },
-  {
-    "objectID": "Projects/Business_Strategy.html",
-    "href": "Projects/Business_Strategy.html",
-    "title": "Business Strategy",
-    "section": "",
-    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review for Keogh’s Farms, a well-known Irish crisps company.\nThis honed my analytical, digital and communicative skills.\nHave a look at our submission…\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "DCU Business Studies has presented me with a mutlitude of exciting challenges.\nTake a look at some of my most enjoyable college projects to date…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning & Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

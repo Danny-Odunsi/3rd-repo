@@ -1,5 +1,6 @@
 ---
 title: "Business Strategy"
+image: ../Strat_thumbnail.jpg
 format: html
 listing: 
     contents: Strat_report

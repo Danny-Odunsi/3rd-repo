@@ -1,5 +1,6 @@
 ---
 title: "New Enterprise Development"
+image: ../NED_thumbnail.jpeg
 format: html
 theme: 
     light: lux
@@ -24,11 +25,20 @@ Our idea? We formulated a plan to produce an inventory management software targe
 
 All smiles from us, after obtaining a 1.1 in our company presentation 🔥
 
-![StockPath_leaflets](images/StockPath_leaflets.jpg)
-![StockPath_inside](images/StockPath_inside.jpeg)
-![StockPath_signs](images/StockPath_signs.jpeg)
-![StockPath_outside](images/StockPath_outside.jpeg)
+::: columns
+::: column
+![ ](StockPath_inside.jpg){width=100%}
+:::
 
+::: column
+![](StockPath_outside){width=100%}
+:::
+:::
+
+::: columns
+::: column
+![](StockPath_leaflets){width=100%}
+:::
 
 
 

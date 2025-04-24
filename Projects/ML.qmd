@@ -1,5 +1,6 @@
 ---
 title: "Machine Learning & Advanced Python"
+image: ../ML_thumbnail.jpeg
 format: dashboard
 ---
 

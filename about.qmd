@@ -1,6 +1,7 @@
 ---
 title: "Hobbies"
 format: html
+toc: true
 ---
 
 Boxing, bartending and football are near and dear to my heart.
