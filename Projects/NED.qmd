@@ -15,9 +15,7 @@ Our idea? We formulated a plan to produce an inventory management software targe
 
 ## Our advertisement
 
-<iframe width="400" height="225" src="https://youtu.be/nD09SsHBDSs" frameborder="0" allowfullscreen></iframe>
-
-A small demonstration of my acting skills 😁
+[![A small demonstration of my acting skills 😁](https://img.youtube.com/vi/nD09SsHBDSs/hqdefault.jpg)](https://youtu.be/nD09SsHBDSs){target="_blank"}
 
 
 
@@ -25,10 +23,12 @@ A small demonstration of my acting skills 😁
 ## The Pitch
 
 All smiles from us, after obtaining a 1.1 in our company presentation 🔥
-![](Images/StockPath_(inside).jpg){style="float: right; margin-right: 1rem; width: 40%;"}
-![](Images/StockPath_Outside.jpg){style="float: right; margin-right: 1rem; width: 40%;"}
-![](Images/StockPath_signs.jpg){style="float: right; margin-right: 1rem; width: 40%;"}
-![](Images/StockPath_leaflets.jpg){style="float: right; margin-right: 1rem; width: 40%;"}
+
+![StockPath_leaflets](images/StockPath_leaflets.jpg)
+![StockPath_inside](images/StockPath_inside.jpeg)
+![StockPath_signs](images/StockPath_signs.jpeg)
+![StockPath_outside](images/StockPath_outside.jpeg)
+
 
 
 

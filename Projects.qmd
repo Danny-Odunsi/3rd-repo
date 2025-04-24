@@ -3,12 +3,31 @@ title: "Projects"
 format: html
 theme: 
     light: lux
-    dark: cyborg
+    dark: solar
 listing: 
     contents: Projects/*
     type: "grid"
 ---
 
-My Business Studies degree has presented me with a mutlitude of exciting challenges.
+DCU Business Studies  has presented me with a mutlitude of exciting challenges.
 
 Take a look at some of my most enjoyable college projects to date...
+
+### ![Business Strategy](images/Business_strat.jpeg)
+
+**BUSINESS STRATEGY**  
+*Over the course of my final year, this module has been full of interesting learning curves.*
+
+---
+
+### ![Machine Learning](images/ML_thumbnail.jpeg)
+
+**MACHINE LEARNING & ADVANCED PYTHON**  
+*From classification algorithms to model evaluation, this project solidified my interest in data science.*
+
+---
+
+### ![New Enterprise](images/NED_thumbnail.jpeg)
+
+**NEW ENTERPRISE DEVELOPMENT**  
+*We generated a fully-fledged, profitable business idea from scratch over 8 months.*

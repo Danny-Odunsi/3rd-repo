@@ -1,8 +1,11 @@
 project:
   type: website
   output-dir: docs
-  resources: 
+  resources:
+    - images/*
+    - Videos/*
     - DANIEL_ODUNSI.pdf
+    - Strat_report
 
 website:
   favicon: Business_Favicon.png
@@ -20,8 +23,6 @@ website:
         text: Projects
       - href: Job experience.qmd
         text: Job Experience
-      - href: College.qmd
-        text: College
       - href: about.qmd
         text: Hobbies
       - href: Reflection.qmd

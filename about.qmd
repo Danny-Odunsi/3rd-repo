@@ -11,9 +11,9 @@ Boxing, bartending and football are near and dear to my heart.
 
 
 ## Bartending🍸
-![**My signature** choclate orange cocktail, 'The Odunsi.'](Bartending.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
+![**My signature** choclate orange cocktail, 'The Odunsi.'](Images/Bartending.jpg){style="float: left; margin-right: 1rem; width: 40%;"}
 
-![One of my most commonly ordered drinks, the 'Amaretto sour.'](Amaretto.jpg){style="float: right; margin-right: 1rem; width: 40%;"}
+![One of my most commonly ordered drinks, the 'Amaretto sour.'](Images/Amaretto.jpg){style="float: right; margin-right: 1rem; width: 40%;"}
 
 
 

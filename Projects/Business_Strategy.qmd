@@ -1,5 +1,15 @@
 ---
 title: "Business Strategy"
 format: html
+listing: 
+    contents: Strat_report
+    type: "grid"
 ---
 
+Over the course of my final year, this module has been full of interesting learning curves.
+
+My favourite project was the written group project, where myself and my team conducted a strategic review for Keogh's Farms, a well-known Irish crisps company.
+
+This honed my analytical, digital and communicative skills.
+
+Have a look at our submission...
