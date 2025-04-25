@@ -25,9 +25,6 @@ Drop me a message using the form below or reach out via email or LinkedIn. I’m
 **Email:**
 D.Odunsi10@gmail.com
 
-[LinkedIn](www.linkedin.com/in/daniel-odunsi-56a24b263)
-
-
 <!-- Visitor form -->
 
 <form
@@ -51,6 +48,7 @@ D.Odunsi10@gmail.com
 </form>
 
 
+[LinkedIn](www.linkedin.com/in/daniel-odunsi-56a24b263)
 
 
 
