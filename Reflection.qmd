@@ -5,14 +5,10 @@ format: html
 
 I must say, this has been an incredibly insightful module. It is like nothing I ever dreamed I would be doing at any point in life, so it is a major achievement for me to be able to say that I have produced my own website.
 
-This journey has not come without its challenges. Learning to read HTML and CSS was not an easy feat for me. Additionally, it required me to become very familiar with the lecture material. It took a lot of study and concentration in lectures and by myself. In fact, there was a period where I was a few lectures behind, having not even been able to properly commit my changes to GitHub, which meant that my website remained bare for far longer than was acceptable. However, sitting down with my lecturer (thank you Damien) aided greatly in getting me back on track, which allowed me to catch up on past lectures and really begin to style my website. This meeting provided the ground work for the website that I have been able to submit.
+This journey has not come without its challenges. Learning to read HTML and CSS was not an easy feat for me. Additionally, it required me to become very familiar with the lecture material. It took a lot of study and concentration in lectures and by myself. In fact, there was a period where I was a few lectures behind, having not even been able to properly commit my changes to GitHub, which meant that my website remained bare for far longer than was acceptable. However, sitting down with my lecturer (thank you Damien) aided greatly in getting me back on track, as it enabled me to to fully set up my GitHub account. This allowed me to catch up on past lectures and really begin to style my website. This meeting provided the ground work for the website that I have been able to submit.
 
-I have found that producing a webpage such as this one requires a lot of trial and error. It takes patience and persistency to find the outcomes that you want. However, the results are more than rewarding. 
+I have found that producing a webpage such as this one requires a lot of trial and error. It takes patience and persistency to find the outcomes that you want. Countless days and nights were spent researching, reviewing the code of others and collaborating with classmates to find answers to my endless questions. However, the results are more than rewarding, as now I have a fully functioning website for my employers and future business partners to look at.
 
-From partaking in this module and completing this assignment, I have improved my web development skills, coding skills,
+From partaking in this module and completing this assignment, I have improved my web development skills, coding skills and my ability to communicate and collaborate. This will serve me well in any position I undertake in future.
 
-
-
-
-
-Special thanks to Damien Dupre, for allowing 
+Special thanks to Damien Dupre, for your continuous dedication, effective teaching and patience in teaching us.

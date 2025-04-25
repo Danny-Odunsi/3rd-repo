@@ -1,0 +1,55 @@
+---
+title: "Contact me"
+subtitle: "Let's connect!"
+format: html
+page-layout: full
+---
+
+Whether you’ve got a question, want to chat about business ideas, or just fancy swapping cocktail recipes — I’d love to hear from you.
+
+Drop me a message using the form below or reach out via email or LinkedIn. I’m always open to opportunities, collaborations, or even a good podcast recommendation.
+
+## Get in touch
+
+Email:
+D.Odunsi10@gmail.com
+
+[LinkenIn](www.linkedin.com/in/daniel-odunsi-56a24b263)
+
+
+<!-- Visitor form -->
+
+<form
+  action="https://formspree.io/f/mvgagzoa"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+
+
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+ 
+
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

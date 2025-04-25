@@ -27,14 +27,17 @@ website:
         text: Hobbies
       - href: Reflection.qmd
         text: Reflection
+      - href: Contact.qmd
+        text: Contact me
       
 format:
   html:
     theme:
       light: lux
       dark: solar
-    css: styles.css
+    css: styles.scss
     toc: false
     page-layout: full
     breadcrumbs: false
+
 

@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Job experience.html",
+    "href": "Job experience.html",
+    "title": "",
+    "section": "",
+    "text": "Beyond finance, I’ve developed customer service, leadership, and problem-solving skills through diverse roles in the hospitality industry.\n\n\nProvided high-quality service in a fast-paced dining environment, ensuring customer satisfaction.\n\n\n\nEnhanced the guest experience by crafting signature drinks, including “The Odunsi”, a unique chocolate-orange cocktail.\n\n\n\nDelivered top-tier service in a refined, high-end setting, strengthening my ability to engage with customers professionally.\n\n\n\nManaged multiple responsibilities in a high-volume setting, balancing efficiency with exceptional service."
+  },
+  {
+    "objectID": "Job experience.html#hospitality-experience",
+    "href": "Job experience.html#hospitality-experience",
+    "title": "",
+    "section": "",
+    "text": "Beyond finance, I’ve developed customer service, leadership, and problem-solving skills through diverse roles in the hospitality industry.\n\n\nProvided high-quality service in a fast-paced dining environment, ensuring customer satisfaction.\n\n\n\nEnhanced the guest experience by crafting signature drinks, including “The Odunsi”, a unique chocolate-orange cocktail.\n\n\n\nDelivered top-tier service in a refined, high-end setting, strengthening my ability to engage with customers professionally.\n\n\n\nManaged multiple responsibilities in a high-volume setting, balancing efficiency with exceptional service."
+  },
+  {
+    "objectID": "Job experience.html#corporate-experience",
+    "href": "Job experience.html#corporate-experience",
+    "title": "",
+    "section": "Corporate Experience",
+    "text": "Corporate Experience\nI’ve had the opportunity to work with some of the world’s leading companies, gaining hands-on experience in finance, operations, and client services. Each role has helped me develop a strong foundation in business strategy, problem-solving, and collaboration.\n\nNovo Nordisk – Finance & Operations Intern (Sept 2023 – July 2024)\nAt Europe’s most valuable company, I contributed to financial operations, reporting, and cross-functional collaboration, gaining valuable insight into corporate finance and operational efficiency.\n\n\nCantor Fitzgerald – Client Services Intern (June 2023 – Aug 2023)\nSupporting a global financial services firm, I assisted clients and ensured service excellence in a fast-paced environment, sharpening my analytical and customer relationship skills.\n\n\nErnst & Young – Summer Student (July 2019)\nA month-long immersion into the world of auditing and consulting, where I shadowed professionals, gaining early exposure to corporate finance and business strategy."
+  },
+  {
     "objectID": "Reflection.html",
     "href": "Reflection.html",
     "title": "BAA1028 - My reflection",
@@ -32,21 +53,7 @@
     "href": "Projects/Business_Strategy.html",
     "title": "Business Strategy",
     "section": "",
-    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review for Keogh’s Farms, a well-known Irish crisps company.\nThis honed my analytical, digital and communicative skills.\nHave a look at our submission…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Daniel Odunsi",
-    "section": "",
-    "text": "I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.\nI’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.\nBeyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.\nI have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design. My communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.\nWhether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ‘The Odunsi’🍹), I bring creativity, dedication, and a results-driven approach to everything I do.\nEnjoy my journey! 🚀"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Daniel Odunsi",
-    "section": "",
-    "text": "I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.\nI’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.\nBeyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.\nI have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design. My communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.\nWhether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ‘The Odunsi’🍹), I bring creativity, dedication, and a results-driven approach to everything I do.\nEnjoy my journey! 🚀"
+    "text": "Over the course of my final year, this module has been full of interesting learning curves.\nMy favourite project was the written group project, where myself and my team conducted a strategic review and gave strategic recommendations for Keogh’s Farms, a well-known Irish crisps company. This is an assignment that honed my analytical, digital and communicative skills.\nHave a look at our submission, which very narrowly missed out on a first class grade:"
   },
   {
     "objectID": "about.html",
@@ -77,25 +84,11 @@
     "text": "Football⚽\nOne shot, one goal. Check out my goal against Robo keeper at Barcelona’s Nou Camp stadium!"
   },
   {
-    "objectID": "Job experience.html",
-    "href": "Job experience.html",
-    "title": "Employment",
+    "objectID": "Projects/ML.html",
+    "href": "Projects/ML.html",
+    "title": "Machine Learning & Advanced Python",
     "section": "",
-    "text": "I’ve had the opportunity to work with some of the world’s leading companies, gaining hands-on experience in finance, operations, and client services. Each role has helped me develop a strong foundation in business strategy, problem-solving, and collaboration.\n\n\nAt Europe’s most valuable company, I contributed to financial operations, reporting, and cross-functional collaboration, gaining valuable insight into corporate finance and operational efficiency.\n\n\n\nSupporting a global financial services firm, I assisted clients and ensured service excellence in a fast-paced environment, sharpening my analytical and customer relationship skills.\n\n\n\nA month-long immersion into the world of auditing and consulting, where I shadowed professionals, gaining early exposure to corporate finance and business strategy."
-  },
-  {
-    "objectID": "Job experience.html#corporate-experience",
-    "href": "Job experience.html#corporate-experience",
-    "title": "Employment",
-    "section": "",
-    "text": "I’ve had the opportunity to work with some of the world’s leading companies, gaining hands-on experience in finance, operations, and client services. Each role has helped me develop a strong foundation in business strategy, problem-solving, and collaboration.\n\n\nAt Europe’s most valuable company, I contributed to financial operations, reporting, and cross-functional collaboration, gaining valuable insight into corporate finance and operational efficiency.\n\n\n\nSupporting a global financial services firm, I assisted clients and ensured service excellence in a fast-paced environment, sharpening my analytical and customer relationship skills.\n\n\n\nA month-long immersion into the world of auditing and consulting, where I shadowed professionals, gaining early exposure to corporate finance and business strategy."
-  },
-  {
-    "objectID": "Job experience.html#hospitality-experience",
-    "href": "Job experience.html#hospitality-experience",
-    "title": "Employment",
-    "section": "Hospitality Experience",
-    "text": "Hospitality Experience\nBeyond finance, I’ve developed customer service, leadership, and problem-solving skills through diverse roles in the hospitality industry.\n\nRibeye Steakhouse Malahide – Bartender (Aug 2024 – Present)\nProvided high-quality service in a fast-paced dining environment, ensuring customer satisfaction.\n\n\nClayton Hotel Merrion Road – Bartender (Feb 2023 – Aug 2023)\nEnhanced the guest experience by crafting signature drinks, including “The Odunsi”, a unique chocolate-orange cocktail.\n\n\nEly Wine Bar Dublin – Bartender (Oct 2022 – Jan 2023)\nDelivered top-tier service in a refined, high-end setting, strengthening my ability to engage with customers professionally.\n\n\nClayton Hotel Merrion Road – Bartender/Waiter (May 2022 – Oct 2022)\nManaged multiple responsibilities in a high-volume setting, balancing efficiency with exceptional service."
+    "text": "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\nI chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\nMy chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\nAfter choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\nI reached a peak accuracy of 64% using the Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality. However, this model was able to uncover some of the complex, non-linear relationships between the features and quality variable, which aided greatly in obtaining the 64% accuracy figure.\nHere is the list of features I used, complete with their correlation to the target variable, Wine Quality:\n\n\n\n\n\n\n\n\n\nCheck out the code I used for this classification task on Google Collab."
   },
   {
     "objectID": "Projects.html",
@@ -105,17 +98,31 @@
     "text": "DCU Business Studies has presented me with a mutlitude of exciting challenges.\nTake a look at some of my most enjoyable college projects to date…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBusiness Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning & Advanced Python\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Enterprise Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Projects/ML.html",
-    "href": "Projects/ML.html",
-    "title": "Machine Learning & Advanced Python",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel Odunsi",
     "section": "",
-    "text": "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\nI chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\nMy chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\nAfter choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\nI reached a peak accuracy of 64% using the Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.\nHere is the list of features I used, complete with their correlation to the target variable, Wine Quality:\n\n\n\n\n\n\n\n\n\nCheck out the code I used for this classification task on Google Collab."
+    "text": "I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.\nI’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.\nBeyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.\nI have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design. My communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.\nWhether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ‘The Odunsi’🍹), I bring creativity, dedication, and a results-driven approach to everything I do.\nEnjoy my journey! 🚀"
   },
   {
-    "objectID": "Projects/ML.html#machine-learning-paper",
-    "href": "Projects/ML.html#machine-learning-paper",
-    "title": "Machine Learning & Advanced Python",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Daniel Odunsi",
     "section": "",
-    "text": "In this module, I was given the task of using Known Machine Learning models to predict a set of outcomes of my choosing.\nI chose to use a set of algorithms to classify good wine and bad wine, based on a variety of wine features.\nMy chosen algorithms were Logistic Regression, Random Forest Classifier and Gradient Boosting Classifier.\nAfter choosing my dataset and 3 models, I got to work, tuning the hyperparameters and improving the learning accuracy, little by little.\nI reached a peak accuracy of 64% using a Random Forest Classifier, concluding that I needed more data, more variables and a more powerful computer to detect all of the relationships between the features that affect wine quality.\nHere is the list of features I used, complete with their correlation to the target variable, Wine Quality:\n\n\nC:\\Users\\danny\\AppData\\Local\\Temp\\ipykernel_37820\\2627079217.py:21: FutureWarning:\n\n\n\nPassing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `y` variable to `hue` and set `legend=False` for the same effect.\n\n\n\n\n\n\n\n\n\n\n\nCheck out the code I used for this classification task on Google Collab."
+    "text": "I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.\nI’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.\nBeyond academics, I take pride in leadership and community engagement. As Vice Chairman of DCU Boxing Club, I oversee club operations, events, and outreach, helping to foster a dynamic and inclusive environment.\nI have broad technical proficiencies. This includes but is not limited to MS Office Suite, Python, and website design. My communication skills and compentency in Spanish allow me to communicate effectively in diverse settings.\nWhether I’m optimising operations, crafting innovative solutions, or even creating a signature cocktail (see ‘The Odunsi’🍹), I bring creativity, dedication, and a results-driven approach to everything I do.\nEnjoy my journey! 🚀"
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact me",
+    "section": "",
+    "text": "Whether you’ve got a question, want to chat about business ideas, or just fancy swapping cocktail recipes — I’d love to hear from you.\nDrop me a message using the form below or reach out via email or LinkedIn. I’m always open to opportunities, collaborations, or even a good podcast recommendation."
+  },
+  {
+    "objectID": "Contact.html#get-in-touch",
+    "href": "Contact.html#get-in-touch",
+    "title": "Contact me",
+    "section": "Get in touch",
+    "text": "Get in touch\nEmail: D.Odunsi10@gmail.com\nLinkenIn\n\n\n Your email:  \n Your message:\n\n  Send"
   }
 ]

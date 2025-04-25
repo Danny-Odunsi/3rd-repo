@@ -8,7 +8,6 @@ about:
     template: trestles
     image-width: 20em
     image-shape: round
-    
     links: #creating buttons
         - icon: linkedin
           href: https://www.linkedin.com/in/daniel-odunsi-56a24b263
@@ -22,7 +21,7 @@ about:
 
 ## Welcome👋🏾 ##
 
-I’m Daniel Odunsi, a final-year Business Studies student at Dublin City University (DCU) specialising in Data Analytics. My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.
+I’m Daniel Odunsi, a final-year **Business Studies student at Dublin City University (DCU) specialising in Data Analytics.** My passions include business strategy, data-driven decision-making, public speaking, marketing and fitness.
 
 I’ve gained hands-on experience through internships at Novo Nordisk, Cantor Fitzgerald, and Ernst & Young, where I contributed to financial reporting, client services, and corporate strategy. These experiences, combined with my coursework in Business Processes & Lean Thinking and Financial Theory, have sharpened my analytical and problem-solving abilities.
 

@@ -32,7 +32,7 @@ I have also competed in multiple boxing events, representing DCU against other b
 :::
 
 ::: column
-![](Boxing_tt.jpg){width=100%}
+![](Boxing_tt.jpg){width=70%}
 :::
 :::
 
@@ -53,7 +53,7 @@ I have worked in numerous bars as a bartender for the past 4 years, at times, ho
 
 ## Football⚽
 
-One shot, one goal. Check out my goal against Robo keeper at Barcelona's Nou Camp stadium!
+**One shot, one goal.** Check out my goal against Robo keeper at Barcelona's Nou Camp stadium!
 
 <video width="400" controls>
   <source src="Barca_goal.mp4" type="video/mp4">
