@@ -3,7 +3,18 @@ title: "Contact me"
 subtitle: "Let's connect!"
 format: html
 page-layout: full
+about:
+    template: jolla
+    image: Business_Favicon.png
+    image-width: 20em
+    image-shape: round
 ---
+
+<style>
+body {
+  font-size: 20px;
+}
+</style>
 
 Whether you’ve got a question, want to chat about business ideas, or just fancy swapping cocktail recipes — I’d love to hear from you.
 
@@ -11,10 +22,10 @@ Drop me a message using the form below or reach out via email or LinkedIn. I’m
 
 ## Get in touch
 
-Email:
+**Email:**
 D.Odunsi10@gmail.com
 
-[LinkenIn](www.linkedin.com/in/daniel-odunsi-56a24b263)
+[LinkedIn](www.linkedin.com/in/daniel-odunsi-56a24b263)
 
 
 <!-- Visitor form -->

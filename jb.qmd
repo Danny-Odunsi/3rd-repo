@@ -1,0 +1,75 @@
+---
+title: "Untitled"
+format: html
+---
+
+<style>
+body {
+  font-size: 20px;
+}
+
+.job-row {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.job-row img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.job-text {
+  font-weight: bold;
+}
+</style>
+
+## Hospitality Experience
+
+Beyond finance, I’ve developed customer service, leadership, and problem-solving skills through diverse roles in the hospitality industry.
+
+<div class="job-row">
+  <img src="Ribeye_logo.png" alt="Ribeye Logo">
+  <div class="job-text">RIBEYE STEAKHOUSE MALAHIDE – PRESENT</div>
+</div>
+
+<div class="job-row">
+  <img src="Clayton_logo.jpeg" alt="Clayton Hotel Logo">
+  <div class="job-text">CLAYTON HOTEL MERRION ROAD – 11 MONTHS</div>
+</div>
+
+<div class="job-row">
+  <img src="Ely_logo.jpg" alt="Ely Logo">
+  <div class="job-text">ELY WINE BAR DUBLIN – 4 MONTHS</div>
+</div>
+
+
+
+---
+
+## Corporate Experience
+
+I’ve had the opportunity to work with some of the world’s leading companies, gaining hands-on experience in finance, operations, and client services. Each role has helped me develop a strong foundation in business strategy, problem-solving, and collaboration.
+
+<div class="experience-grid">
+
+<div class="experience-item">
+  <img src="NN_logo.png" alt="NN Logo">
+  <h3>NOVO NORDISK – 11 MONTHS</h3>
+</div>
+
+<div class="experience-item">
+  <img src="Cantor_logo.png" alt="Cantor Logo">
+  <h3>CANTOR FITZGERALD – 3 MONTHS</h3>
+</div>
+
+<div class="experience-item">
+  <img src="EY.png" alt="EY Logo">
+  <h3>ERNST & YOUNG – 1 MONTH</h3>
+</div>
+
+</div>
+

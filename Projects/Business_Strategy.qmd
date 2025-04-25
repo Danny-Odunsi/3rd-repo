@@ -5,6 +5,12 @@ format: html
 page-layout: full
 ---
 
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+
 Over the course of my final year, this module has been full of interesting learning curves.
 
 My favourite project was the written group project, where myself and my team conducted a strategic review and gave strategic recommendations for Keogh's Farms, a well-known Irish crisps company. This is an assignment that honed my analytical, digital and communicative skills.

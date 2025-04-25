@@ -11,6 +11,11 @@ listing:
     fields: [title, image]
 ---
 
+<style>
+body {
+  font-size: 20px;
+}
+</style>
 
 DCU Business Studies  has presented me with a multitude of exciting challenges.
 

@@ -1,33 +1,37 @@
 ---
 title: " "
 format: html
+page-layout: full
 ---
+
+<style>
+body {
+  font-size: 20px;
+}
+</style>
 
 ## Hospitality Experience ##
 Beyond finance, I’ve developed customer service, leadership, and problem-solving skills through diverse roles in the hospitality industry.
 
-### Ribeye Steakhouse Malahide – Bartender (Aug 2024 – Present)
-Provided high-quality service in a fast-paced dining environment, ensuring customer satisfaction.
+### Ribeye Steakhouse Malahide – Present (8 months)
+<img src="Ribeye_logo.png" alt="Ribeye Logo" width="150" style="border-radius: 50%; margin-bottom: 1rem;">
 
-### Clayton Hotel Merrion Road – Bartender (Feb 2023 – Aug 2023)
-Enhanced the guest experience by crafting signature drinks, including "The Odunsi", a unique chocolate-orange cocktail.
+### Clayton Hotel Merrion Road – 11 months
+<img src="Clayton_logo.jpeg" alt="Clayton Logo" width="150" style="border-radius: 50%; margin-bottom: 1rem;">
 
-### Ely Wine Bar Dublin – Bartender (Oct 2022 – Jan 2023)
-Delivered top-tier service in a refined, high-end setting, strengthening my ability to engage with customers professionally.
-
-### Clayton Hotel Merrion Road – Bartender/Waiter (May 2022 – Oct 2022)
-Managed multiple responsibilities in a high-volume setting, balancing efficiency with exceptional service.
+### Ely Wine Bar Dublin – 4 months
+<img src="Ely_logo.jpg" alt="Ely Logo" width="150" style="border-radius: 50%; margin-bottom: 1rem;">
 
 ---
 
 ## Corporate Experience ##
 I’ve had the opportunity to work with some of the world’s leading companies, gaining hands-on experience in finance, operations, and client services. Each role has helped me develop a strong foundation in business strategy, problem-solving, and collaboration.
 
-### Novo Nordisk – Finance & Operations Intern (Sept 2023 – July 2024)
-At Europe’s most valuable company, I contributed to financial operations, reporting, and cross-functional collaboration, gaining valuable insight into corporate finance and operational efficiency.
+### Novo Nordisk – 11 months
+<img src="NN_logo.png" alt="NN Logo" width="250" style="border-radius: 60%; margin-bottom: 2rem;">
 
-### Cantor Fitzgerald – Client Services Intern (June 2023 – Aug 2023)
-Supporting a global financial services firm, I assisted clients and ensured service excellence in a fast-paced environment, sharpening my analytical and customer relationship skills.
+### Cantor Fitzgerald – 3 months
+<img src="Cantor_logo.png" alt="Cantor Logo" width="250" style="border-radius: 60%; margin-bottom: 2rem;">
 
-### Ernst & Young – Summer Student (July 2019)
-A month-long immersion into the world of auditing and consulting, where I shadowed professionals, gaining early exposure to corporate finance and business strategy.
+### Ernst & Young – 1 month
+<img src="EY_logo.png" alt="EY Logo" width="250" style="border-radius: 60%; margin-bottom: 2rem;">

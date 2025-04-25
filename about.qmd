@@ -4,6 +4,12 @@ format: html
 toc: true
 ---
 
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+
 Boxing, bartending and football are near and dear to my heart.
 
 ## Boxing🥊

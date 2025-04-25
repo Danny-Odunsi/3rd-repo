@@ -1,0 +1,18 @@
+---
+title: "Ribeye Steakhouse"
+format: html
+page-layout: full
+---
+
+<img src="Ribeye_logo.png" alt="Ribeye Logo" width="150" style="border-radius: 50%; margin-bottom: 1rem;">
+
+Providing high-quality cocktails in a fast-paced environment, always ensuring customer satisfaction.
+
+This job experience gave me the opportunity to hone my **teamwork**, **adaptability**, and of course — my **cocktail crafting** skills.
+
+<video width="400" controls>
+  <source src="Ribeye_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**A master at work 🙌🏾**

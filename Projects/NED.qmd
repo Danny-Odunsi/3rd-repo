@@ -7,9 +7,17 @@ theme:
     dark: solar
 ---
 
+<style>
+body {
+  font-size: 20px;
+}
+</style>
+
 In this module, we were tasked (as groups of 5) to generate an idea for a fully-fledged, profitable business. It took place over the course of 8 months, in which we were required to complete a preliminary business plan, Feasfibility Study, Marketing Video & campaign and a pitch to a group of esteemed entrepreneurs.
 
 Our idea? We formulated a plan to produce an inventory management software targeted at small businesses.
+
+This idea earned us a 1.1 grade in our pitch, as we were commeneded for being one of the best groups in the entire modules.
 
 
 ## Our advertisement
@@ -27,22 +35,26 @@ A small demonstration of my acting skills 😁
 
 ## The Pitch
 
-::: columns
-::: column
-![](images/StockPath_inside.jpg){width=100%}
-:::
-
-::: column
-![](images/StockPath_outside.jpg){width=100%}
-:::
-:::
+All smiles, after receiving a 1.1 in our presentation 😁
 
 ::: columns
 ::: column
-![](images/StockPath_leaflets.jpg){width=100%}
+![](StockPath_inside.jpg){width=100%}
 :::
 
+::: column
+![](StockPath_outside.jpg){width=100%}
+:::
+:::
 
+::: columns
+::: column
+![](StockPath_leaflets.jpg){width=100%}
+:::
 
+::: column
+![](StockPath_signs.jpg){width=70%}
+:::
+:::
 
 

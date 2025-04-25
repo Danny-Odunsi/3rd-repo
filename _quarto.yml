@@ -4,6 +4,7 @@ project:
   resources:
     - images/*
     - Videos/*
+    - Experience/*
     - DANIEL_ODUNSI.pdf
     - Strat_report
 
@@ -38,6 +39,6 @@ format:
     css: styles.scss
     toc: false
     page-layout: full
-    breadcrumbs: false
+    breadcrumbs: true
 
 
