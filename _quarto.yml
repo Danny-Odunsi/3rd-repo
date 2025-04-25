@@ -26,10 +26,10 @@ website:
         text: Job Experience
       - href: about.qmd
         text: Hobbies
-      - href: Reflection.qmd
-        text: Reflection
       - href: Contact.qmd
         text: Contact me
+      - href: Reflection.qmd
+        text: Reflection
       
 format:
   html:
