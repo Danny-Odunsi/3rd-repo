@@ -4,7 +4,6 @@ project:
   resources:
     - images/*
     - Videos/*
-    - Experience/*
     - DANIEL_ODUNSI.pdf
     - Strat_report
 
