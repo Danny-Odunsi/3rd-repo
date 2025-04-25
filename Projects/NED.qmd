@@ -15,7 +15,7 @@ body {
 
 In this module, we were tasked (as groups of 5) to generate an idea for a fully-fledged, profitable business. It took place over the course of 8 months, in which we were required to complete a preliminary business plan, Feasfibility Study, Marketing Video & campaign and a pitch to a group of esteemed entrepreneurs.
 
-Our idea? We formulated a plan to produce an inventory management software targeted at small businesses.
+Our idea? We formulated a plan to produce an inventory management software targeted at small, retail enterprises, which would decrease the time it takes to count stock.
 
 This idea earned us a 1.1 grade in our pitch, as we were commeneded for being one of the best groups in the entire modules.
 
