@@ -27,8 +27,7 @@ website:
         text: Hobbies
       - href: Contact.qmd
         text: Contact me
-      - href: Reflection.qmd
-        text: Reflection
+
       
 format:
   html:
