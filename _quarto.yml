@@ -16,7 +16,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: DANIEL_ODUNSI.pdf
+      - href: DANIEL_ODUNSI_CV.pdf
         text: CV
         target: _blank
       - href: Projects.qmd
